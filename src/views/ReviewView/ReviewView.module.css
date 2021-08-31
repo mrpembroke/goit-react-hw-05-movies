@@ -1,0 +1,21 @@
+.descr {
+  margin: 0;
+  border: solid 1px dimgrey;
+  border-radius: 15px;
+  padding: 15px;
+  background: linear-gradient(
+    0deg,
+    rgba(79, 80, 80, 0.3) 0%,
+    rgba(184, 183, 181, 0.2777485994397759) 100%
+  );
+  font-weight: 600;
+}
+
+.title {
+  font-size: 20px;
+  color: rgb(196, 57, 57);
+}
+
+.item {
+  list-style: none;
+}
